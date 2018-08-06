@@ -1,0 +1,22 @@
+C:\Users\Cristi Priciu\source\repos\Inflation Calculator\Inflation Calculator\obj\Debug\Inflation Calculator.csprojAssemblyReference.cache
+C:\Users\Cristi Priciu\source\repos\Inflation Calculator\Inflation Calculator\obj\Debug\Inflation_Calculator.Calculator.resources
+C:\Users\Cristi Priciu\source\repos\Inflation Calculator\Inflation Calculator\obj\Debug\Inflation_Calculator.AdminForm.resources
+C:\Users\Cristi Priciu\source\repos\Inflation Calculator\Inflation Calculator\obj\Debug\Inflation_Calculator.Properties.Resources.resources
+C:\Users\Cristi Priciu\source\repos\Inflation Calculator\Inflation Calculator\obj\Debug\Inflation Calculator.csproj.GenerateResource.cache
+C:\Users\Cristi Priciu\source\repos\Inflation Calculator\Inflation Calculator\obj\Debug\Inflation Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Cristi Priciu\source\repos\Inflation Calculator\Inflation Calculator\bin\Debug\Inflation Calculator.exe.config
+C:\Users\Cristi Priciu\source\repos\Inflation Calculator\Inflation Calculator\bin\Debug\Inflation Calculator.exe
+C:\Users\Cristi Priciu\source\repos\Inflation Calculator\Inflation Calculator\bin\Debug\Inflation Calculator.pdb
+C:\Users\Cristi Priciu\source\repos\Inflation Calculator\Inflation Calculator\obj\Debug\Inflation Calculator.exe
+C:\Users\Cristi Priciu\source\repos\Inflation Calculator\Inflation Calculator\obj\Debug\Inflation Calculator.pdb
+D:\Visual Studio Saves\Inflation Calculator\Inflation Calculator\bin\Debug\Inflation Calculator.exe.config
+D:\Visual Studio Saves\Inflation Calculator\Inflation Calculator\bin\Debug\Inflation Calculator.exe
+D:\Visual Studio Saves\Inflation Calculator\Inflation Calculator\bin\Debug\Inflation Calculator.pdb
+D:\Visual Studio Saves\Inflation Calculator\Inflation Calculator\obj\Debug\Inflation Calculator.csprojAssemblyReference.cache
+D:\Visual Studio Saves\Inflation Calculator\Inflation Calculator\obj\Debug\Inflation_Calculator.Calculator.resources
+D:\Visual Studio Saves\Inflation Calculator\Inflation Calculator\obj\Debug\Inflation_Calculator.AdminForm.resources
+D:\Visual Studio Saves\Inflation Calculator\Inflation Calculator\obj\Debug\Inflation_Calculator.Properties.Resources.resources
+D:\Visual Studio Saves\Inflation Calculator\Inflation Calculator\obj\Debug\Inflation Calculator.csproj.GenerateResource.cache
+D:\Visual Studio Saves\Inflation Calculator\Inflation Calculator\obj\Debug\Inflation Calculator.csproj.CoreCompileInputs.cache
+D:\Visual Studio Saves\Inflation Calculator\Inflation Calculator\obj\Debug\Inflation Calculator.exe
+D:\Visual Studio Saves\Inflation Calculator\Inflation Calculator\obj\Debug\Inflation Calculator.pdb
